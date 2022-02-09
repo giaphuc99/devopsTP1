@@ -1,0 +1,6 @@
+.j'ai fait le merge
+
+git checkout master
+git merge feature1
+
+git push
